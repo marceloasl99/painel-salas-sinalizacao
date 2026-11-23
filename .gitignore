@@ -1,0 +1,22 @@
+# Arquivos locais que não vão para o GitHub
+_arquivo_antigo/
+_backup*/
+_spec_*.md
+_shots/
+_preview*.html
+_test*.html
+tu1.txt
+*.7z
+scratch_*
+
+# Python / ferramentas
+__pycache__/
+*.pyc
+build/
+
+# Editores e sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
